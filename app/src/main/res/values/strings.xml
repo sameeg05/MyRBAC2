@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My RBAC</string>
+    <string name="sing_in">ลงชื่อเข้าใช้</string>
+</resources>
